@@ -1,0 +1,17 @@
+current directory: /home/drancope/Documents/github_projects/testblog/vendor/bundle/ruby/2.7.0/gems/racc-1.6.0/ext/racc/cparse
+/usr/bin/ruby2.7 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20211030-15307-1n0x1zr.rb extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /home/drancope/Documents/github_projects/testblog/vendor/bundle/ruby/2.7.0/gems/racc-1.6.0/ext/racc/cparse
+make DESTDIR\= clean
+
+current directory: /home/drancope/Documents/github_projects/testblog/vendor/bundle/ruby/2.7.0/gems/racc-1.6.0/ext/racc/cparse
+make DESTDIR\=
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/drancope/Documents/github_projects/testblog/vendor/bundle/ruby/2.7.0/gems/racc-1.6.0/ext/racc/cparse
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20211030-15307-iu5t12/racc
