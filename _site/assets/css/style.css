@@ -252,3 +252,8 @@ a {
 
 #a-title {
   text-decoration: none; }
+
+blockquote {
+  color: #888;
+  padding-left: 10px;
+  border-left: 1px dotted #666; }
