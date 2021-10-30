@@ -1,17 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-10-30T23:14:44+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Computación y Robótica</title><subtitle>Blog de 3º de ESO</subtitle><entry><title type="html">Mapa de la materia</title><link href="http://localhost:4000/novedades/2021/10/30/Mapa-de-la-materia.html" rel="alternate" type="text/html" title="Mapa de la materia" /><published>2021-10-30T10:31:58+02:00</published><updated>2021-10-30T10:31:58+02:00</updated><id>http://localhost:4000/novedades/2021/10/30/Mapa-de-la-materia</id><content type="html" xml:base="http://localhost:4000/novedades/2021/10/30/Mapa-de-la-materia.html">&lt;p&gt;Este blog pretende dar una idea general de qué ramas y contenidos aparecen en nuestra asignatura, y resumir las herramientas que podemos usar, no solo para realizar el trabajo de aprendizaje, sino para aprender acerca de ellas mimas.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-10-30T23:17:43+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Computación y Robótica</title><subtitle>Blog de 3º de ESO</subtitle><entry><title type="html">Mapa de la materia</title><link href="http://localhost:4000/novedades/2021/10/30/Mapa-de-la-materia.html" rel="alternate" type="text/html" title="Mapa de la materia" /><published>2021-10-30T10:31:58+02:00</published><updated>2021-10-30T10:31:58+02:00</updated><id>http://localhost:4000/novedades/2021/10/30/Mapa-de-la-materia</id><content type="html" xml:base="http://localhost:4000/novedades/2021/10/30/Mapa-de-la-materia.html">&lt;p&gt;Este blog pretende dar una idea general de qué ramas y contenidos aparecen en nuestra asignatura, y resumir las herramientas que podemos usar, no solo para realizar el trabajo de aprendizaje, sino para aprender acerca de ellas mimas.&lt;/p&gt;
 
 &lt;p&gt;La computación y la programación son un mundo complicado. Hay muchos lenguajes, muchos métodos de generar contenido, y muchas herramientas.
 Cuando no se ha practicado antes con ningún lenguaje, las &lt;em&gt;interfaces de desarrollo&lt;/em&gt; son algo extraño, que manejan archivos de lenguaje variado, y que organizan todo el material en carpetas que no conocemos.&lt;/p&gt;
 
 &lt;div class=&quot;bloque&quot;&gt;
 Hasta ahora hemos probado GitHub con lenguaje markdown, y AMPPS (Apache) con lenguaje html.
-Para trabajar con el primero, tenemos que aprender acerca de &lt;b&gt;&lt;em&gt;git&lt;/em&gt;&lt;/b&gt; y los repositorios,
-creando uno con nuestro nombre de usuario, y cómo editar archivos en la plataforma online
-de GitHub, manejar ramas y hacer operaciones &lt;em&gt;&lt;b&gt;commit&amp;lt;/em&amp;gt;&lt;/b&gt; y &lt;em&gt;&lt;b&gt;push&amp;lt;/em&amp;gt;&lt;/b&gt;.
+Para trabajar con el primero, tenemos que aprender acerca de &lt;b&gt;&lt;em&gt;git&lt;/em&gt;&lt;/b&gt; y los repositorios, creando uno con nuestro nombre de usuario, y cómo editar archivos en la plataforma online de GitHub, manejar ramas y hacer operaciones &lt;b&gt;&lt;em&gt;commit&lt;/em&gt;&lt;/b&gt; y &lt;b&gt;&lt;em&gt;push&lt;/em&gt;&lt;/b&gt;.
 Con Apache, hemos buscado en nuestro ordenador las carpetas donde se guardan los archivos
 html, para mover allí los documentos creados con un editor de texto, o con un programa de
 oficina que exporta al formato adecuado.
-&amp;lt;/div&amp;gt;
+&lt;/div&gt;
 
 &lt;table style=&quot;span: 10;&quot;&gt;
   &lt;tr&gt;
@@ -24,11 +22,13 @@ oficina que exporta al formato adecuado.
     &lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
-## Programar
+&lt;h2 id=&quot;programar&quot;&gt;Programar&lt;/h2&gt;
 
-Aprender programación empieza por aprender la sintáxis de un lenguaje concreto. Con esto, comenzaremos a practicar los bucles más sencillos, como las repeticiones una cierta cantidad de veces, o el bucle mientras o hasta que se cumpla una condición.
+&lt;p&gt;Aprender programación empieza por aprender la sintáxis de un lenguaje concreto. Con esto, comenzaremos a practicar los bucles más sencillos, como las repeticiones una cierta cantidad de veces, o el bucle mientras o hasta que se cumpla una condición.&lt;/p&gt;
 
-&lt;div class=&quot;bloque&quot;&gt;En Python, las instrucciones de control &lt;em&gt;&lt;b&gt;for&amp;lt;/em&amp;gt;&lt;/b&gt; y &lt;em&gt;&lt;b&gt;while&amp;lt;/em&amp;gt;&lt;/b&gt; son las primeras que se aprenden.&amp;lt;/div&amp;gt;
+&lt;div class=&quot;bloque&quot;&gt;
+En Python, las instrucciones de control &lt;em&gt;&lt;b&gt;for&amp;lt;/em&amp;gt;&lt;/b&gt; y &lt;em&gt;&lt;b&gt;while&amp;lt;/em&amp;gt;&lt;/b&gt; son las primeras que se aprenden.
+&amp;lt;/div&amp;gt;
 
 Después debemos manejar las variables complejas. Las listas y matrices requieren de una práctica abundante, para que con el tiempo podamos controlar si estamos utilizando los índices bien, para que los resultados sean correctos.
 
@@ -36,7 +36,7 @@ Este blog está hecho con [Jekyll][jekyll]. Puedes leer en inglés la documentac
 
 [jekyll]: https://jekyllrb.com
 [jekyll-docs]: https://jekyllrb.com/docs/home
-&lt;/em&gt;&lt;/em&gt;&lt;/div&gt;&lt;/em&gt;&lt;/em&gt;&lt;/div&gt;</content><author><name>drancope</name></author><category term="Novedades" /><summary type="html">Este blog pretende dar una idea general de qué ramas y contenidos aparecen en nuestra asignatura, y resumir las herramientas que podemos usar, no solo para realizar el trabajo de aprendizaje, sino para aprender acerca de ellas mimas.</summary></entry><entry><title type="html">Artículo de prueba</title><link href="http://localhost:4000/novedades/2021/10/26/Art%C3%ADculo-experimental.html" rel="alternate" type="text/html" title="Artículo de prueba" /><published>2021-10-26T12:31:58+02:00</published><updated>2021-10-26T12:31:58+02:00</updated><id>http://localhost:4000/novedades/2021/10/26/Art%C3%ADculo-experimental</id><content type="html" xml:base="http://localhost:4000/novedades/2021/10/26/Art%C3%ADculo-experimental.html">&lt;p&gt;Este blog pretende dar una idea general de qué ramas y contenidos aparecen en nuestra asignatura, y resumir las herramientas que podemos usar, no solo para realizar el trabajo de aprendizaje, sino para aprender acerca de ellas mimas.&lt;/p&gt;
+&lt;/em&gt;&lt;/em&gt;&lt;/div&gt;</content><author><name>drancope</name></author><category term="Novedades" /><summary type="html">Este blog pretende dar una idea general de qué ramas y contenidos aparecen en nuestra asignatura, y resumir las herramientas que podemos usar, no solo para realizar el trabajo de aprendizaje, sino para aprender acerca de ellas mimas.</summary></entry><entry><title type="html">Artículo de prueba</title><link href="http://localhost:4000/novedades/2021/10/26/Art%C3%ADculo-experimental.html" rel="alternate" type="text/html" title="Artículo de prueba" /><published>2021-10-26T12:31:58+02:00</published><updated>2021-10-26T12:31:58+02:00</updated><id>http://localhost:4000/novedades/2021/10/26/Art%C3%ADculo-experimental</id><content type="html" xml:base="http://localhost:4000/novedades/2021/10/26/Art%C3%ADculo-experimental.html">&lt;p&gt;Este blog pretende dar una idea general de qué ramas y contenidos aparecen en nuestra asignatura, y resumir las herramientas que podemos usar, no solo para realizar el trabajo de aprendizaje, sino para aprender acerca de ellas mimas.&lt;/p&gt;
 
 &lt;p&gt;La computación y la programación son un mundo complicado. Hay muchos lenguajes, muchos métodos de generar contenido, y muchas herramientas.
 Cuando no se ha practicado antes con ningún lenguaje, las &lt;em&gt;interfaces de desarrollo&lt;/em&gt; son algo extraño, que manejan archivos de lenguaje variado, y que organizan todo el material en carpetas que no conocemos.&lt;/p&gt;</content><author><name>drancope</name></author><category term="Novedades" /><summary type="html">Este blog pretende dar una idea general de qué ramas y contenidos aparecen en nuestra asignatura, y resumir las herramientas que podemos usar, no solo para realizar el trabajo de aprendizaje, sino para aprender acerca de ellas mimas.</summary></entry></feed>
