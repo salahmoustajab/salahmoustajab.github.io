@@ -14,7 +14,7 @@ Cuando no se ha practicado antes con ningún lenguaje, las *interfaces de desarr
 Hasta ahora hemos probado GitHub con lenguaje markdown, y AMPPS (Apache) con lenguaje html.
 Para trabajar con el primero, tenemos que aprender acerca de <b>git</b> y los repositorios,
 creando uno con nuestro nombre de usuario, y cómo editar archivos en la plataforma online
-de GitHub, manejar ramas y hacer operaciones *commit* y {{ "push" | bold }}.
+de GitHub, manejar ramas y hacer operaciones *commit* y {{ "*push*" | markdownify }}.
 Con Apache, hemos buscado en nuestro ordenador las carpetas donde se guardan los archivos
 html, para mover allí los documentos creados con un editor de texto, o con un programa de
 oficina que exporta al formato adecuado.
