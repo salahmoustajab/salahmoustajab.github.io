@@ -3,6 +3,7 @@ layout: post
 title:  "Artículo de prueba"
 date:   2021-10-30 12:31:58 +0200
 categories: Novedades
+author: drancope
 ---
 Este blog pretende dar una idea general de qué ramas y contenidos aparecen en nuestra asignatura, y resumir las herramientas que podemos usar, no solo para realizar el trabajo de aprendizaje, sino para aprender acerca de ellas mimas.
 
