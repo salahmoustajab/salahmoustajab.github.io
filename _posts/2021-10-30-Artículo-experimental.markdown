@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Artículo de prueba"
 date:   2021-10-30 12:31:58 +0200
