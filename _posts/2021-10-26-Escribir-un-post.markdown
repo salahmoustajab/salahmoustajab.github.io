@@ -27,7 +27,7 @@ Se puede incluir código html dentro del artículo, aunque puede que estorbe un 
 
 Las imágenes, emoticones, listas y enlaces funcionan también con normalidad, siguiendo los manuales del lenguaje markdown.
 
-Lo más complicado es integrar los estilos y filtros dentro de todo este sistema. Por ejemplo, con lenguaje css (o más bien sass) podemos modificar el aspecto general de nuestra web, o bien definir estilos de párrafo especiales que usaremos según queramos dar a un párrafo aspedto distinto. Los filtros utilizan llaves {} o llaves con porcentaje {\% \%}, dentro de las cuales se incluyen variables o instrucciones especiales. Una de ellas, el resaltador de código, se utiliza en el cuadro de arriba.
+Lo más complicado es integrar los estilos y filtros dentro de todo este sistema. Por ejemplo, con lenguaje css (o más bien sass) podemos modificar el aspecto general de nuestra web, o bien definir estilos de párrafo especiales que usaremos según queramos dar a un párrafo aspedto distinto. Los filtros utilizan llaves {} o llaves con porcentaje %, dentro de las cuales se incluyen variables o instrucciones especiales. Una de ellas, el resaltador de código, se utiliza en el cuadro de arriba.
 
 <div class="bloque">
 La generación de un cuadro como éste requiere crear un código de estilo, que guardamos en un archivo dentro de la carpeta _sass y escribir una llamada a ese archivo dentro de otro que se carga automáticamente en la cabecera de la página web.
