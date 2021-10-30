@@ -1,6 +1,3 @@
----
-layout: default
----
 
 <nav>
   <a href="/">Home</a>
