@@ -3,5 +3,8 @@
 ---
 
 @import "{{ site.theme }}";
-#miid {border-width: 1px; border: solid; text-align: center}
+blockquote {
+  color: #888;
+  padding-left: 10px;
+  border-left: 1px dotted #666; }
 ```
